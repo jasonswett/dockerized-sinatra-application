@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Hello world!'
+  "I'm running a Dockerized Sinatra application!"
 end
